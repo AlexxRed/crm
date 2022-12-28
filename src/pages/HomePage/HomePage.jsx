@@ -5,8 +5,6 @@ import About from '../../components/About/About'
 import Footer from '../../components/Footer/Footer';
 
 function HomePage() {
-    // const isLogin = useSelector(authSelectors.getIsLoggedIn);
-    // const isLogin = true;
     return (
         <Box>
             <HeroSection/>
